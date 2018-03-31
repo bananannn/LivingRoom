@@ -1,0 +1,10 @@
+﻿  RgbImage.cpp
+h:\visual studio 2015\projects\moyan_zhou_project6\rgbimage.cpp(60): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+h:\visual studio 2015\projects\moyan_zhou_project6\rgbimage.cpp(179): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+  Moyan_Zhou_Project6.cpp
+h:\visual studio 2015\projects\moyan_zhou_project6\moyan_zhou_project6.cpp(107): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+h:\visual studio 2015\projects\moyan_zhou_project6\moyan_zhou_project6.cpp(108): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+  Generating Code...
+  Moyan_Zhou_Project6.vcxproj -> H:\Visual Studio 2015\Projects\Moyan_Zhou_Project6\Debug\Moyan_Zhou_Project6.exe
